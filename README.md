@@ -1,4 +1,5 @@
-# fluffy-disco
-Roblox account generator
+# Roblox Account Generator 
+Simple Roblox Account Generator 
+* Multi-Threading
+* Proxies
 
-coming soon :tm:
