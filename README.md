@@ -12,3 +12,11 @@ Simple Roblox Account Generator built in .NET Framework 4.8
 * Fill  `proxies.txt` with proxies
 * Add your Fun Captcha Solver or Solved Fun Captcha in the code
 and you are ready to go!
+
+## Showcase
+
+* To be added
+
+## Build
+
+* To be added
