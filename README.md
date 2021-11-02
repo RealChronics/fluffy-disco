@@ -5,7 +5,8 @@ Simple Roblox Account Generator built in .NET Framework 4.8
 
 # NuGet Packages
 
-* [RestSharp](https://www.nuget.org/packages/RestSharp) Simple REST and HTTP API Client
+* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) Json.NET is a popular high-performance JSON framework for .NET
+* [AntiCaptchaAPI](https://www.nuget.org/packages/AntiCaptchaAPI/) Simple Wrapper for https://anti-captcha.com
 
 # Usage
 
