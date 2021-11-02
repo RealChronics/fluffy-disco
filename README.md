@@ -16,7 +16,10 @@ and you are ready to go!
 
 ## Showcase
 
-![](https://i.gyazo.com/1faa89fb70f041013d2be959e9e7da84.mp4)
+![](https://user-images.githubusercontent.com/40140975/139946032-4332b9c6-276c-4af9-bcd0-c66ab2fb64ff.mp4)
+
+
+da84.mp4)
 
 ## Build
 
