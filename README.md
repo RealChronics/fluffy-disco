@@ -16,7 +16,7 @@ and you are ready to go!
 
 ## Showcase
 
-![](https://gyazo.com/1faa89fb70f041013d2be959e9e7da84)
+![](https://i.gyazo.com/1faa89fb70f041013d2be959e9e7da84.mp4)
 
 ## Build
 
